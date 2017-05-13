@@ -36,10 +36,10 @@ Update order API:(Method: PUT)
 http://54.183.201.12:9090/v3/starbucks/order/{ORDER_ID}
 
 Info needed:
-    {"location": "take-out",
-     "items": [{
-     "qty": 1,
-     "name": "latte",
-     "milk": "skim",
-     "size": "small"
+    { "location": "take-out",
+      "items": [{
+      "qty": 1,
+      "name": "latte",
+      "milk": "skim",
+      "size": "small"
     }]}
