@@ -7,7 +7,7 @@ public DNS name: ec2-54-183-201-12.us-west-1.compute.amazonaws.com
 port: 9090
 
 
-Place order API: (Method: POST), will return ORDER_ID
+Place order API: (Method: POST, will return ORDER_ID)
 http://54.183.201.12:9090/v3/starbucks/order
 
 Info needed:
